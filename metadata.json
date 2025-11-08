@@ -1,0 +1,5 @@
+{
+  "name": "IoT Learning Quest",
+  "description": "An interactive, gamified application for students to learn about the Internet of Things (IoT). It features a virtual assistant, generates content and quizzes using AI, and awards medals based on performance.",
+  "requestFramePermissions": []
+}
